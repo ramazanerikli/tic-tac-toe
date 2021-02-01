@@ -25,7 +25,7 @@ namespace tic_tac_toe
                 playing = false;
                 Intro();
 
-                // Main menu options
+                // Main Menu options
                 option = int.Parse(Console.ReadLine());
 
                 // New game
